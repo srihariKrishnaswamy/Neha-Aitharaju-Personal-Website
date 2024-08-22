@@ -1,0 +1,41 @@
+.aboutsection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 90vh; */
+  padding: 10vh;
+}
+.h2class {
+  font-size: 3rem;
+  font-family: "Quicksand", sans-serif;
+  color: white;
+}
+.desctext {
+  font-family: "Quicksand", sans-serif;
+  color: white;
+  font-size: 1.2rem;
+}
+
+.contentrow {
+  display: flex;
+  flex-direction: row;
+}
+
+.textContainer {
+  padding-left: 5vh;
+}
+
+@media (max-width: 1100px) {
+  .contentrow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
+.face {
+  position: relative;
+  max-width: 400px;
+  border-radius: 50%; /* This makes the image circular */
+  object-fit: cover; 
+}

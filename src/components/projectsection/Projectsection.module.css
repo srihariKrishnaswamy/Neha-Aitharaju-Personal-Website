@@ -1,0 +1,63 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* height: 90vh; */
+  padding: 10vh;
+}
+.h2class {
+  font-size: 3rem;
+  font-family: "Quicksand", sans-serif;
+  color: white;
+}
+
+.h3class {
+  font-size: 1.5rem;
+  font-family: "Quicksand", sans-serif;
+  color: white;
+}
+.h4class {
+  font-size: 1rem;
+  font-family: "Quicksand", sans-serif;
+  color: white;
+}
+.desctext {
+  font-family: "Quicksand", sans-serif;
+  color: white;
+  font-size: 1.2rem;
+}
+
+.contentrow {
+  display: flex;
+  flex-direction: column;
+}
+
+.textContainer {
+  padding-left: 5vh;
+}
+.experiencecontainer {
+  background-color: black;
+  border-radius: 20px;
+  padding: 1rem;
+  border: 2px solid gray;
+  width: 80vw;
+}
+
+@media (max-width: 1100px) {
+  .contentrow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.face {
+  position: relative;
+  max-width: 400px;
+}
+
+.paddingspace {
+  margin: 1vh;
+}
