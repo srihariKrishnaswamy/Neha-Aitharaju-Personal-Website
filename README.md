@@ -10,4 +10,4 @@ Happy Birthday! Here's a list of things you should change/know before this thing
 1. Go ahead and add a link to your resume in line 19 in Resumesection.js
 2. Once I get the chatbot working, I'll let you know & uncomment some code so that the chatbot component works
 3. Feel free to add/change anything you want. I lowkey put this thing together as just like a template pre-populated with some stuff I felt should be on here, but this is fully your website so do whatever you feel
-4. Make sure to get rid of this readme file before you show anyone the repo for this :) Happy Birthday again!
+4. Make sure to get rid of this things to change section before you show anyone the repo for this :) Happy Birthday again!
